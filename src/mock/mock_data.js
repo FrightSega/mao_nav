@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://chatgpt.com",
           "description": "",
           "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
+          "id": "site-1753923259505",
+          "name": "豆包",
+          "url": "https://www.doubao.com",
+          "description": "",
+          "icon": "/sitelogo/www.doubao.com.ico"
         }
       ]
     },
@@ -48,6 +55,118 @@ export const mockData = {
           "url": "https://github.com/features/copilot",
           "description": "",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1753923273467",
+          "name": "豆包",
+          "url": "https://www.doubao.com",
+          "description": "",
+          "icon": "/sitelogo/www.doubao.com.ico"
+        },
+        {
+          "id": "site-1753923309415",
+          "name": "千问",
+          "url": "https://chat.qwen.ai",
+          "description": "",
+          "icon": "/sitelogo/chat.qwen.ai.ico"
+        },
+        {
+          "id": "site-1753923356225",
+          "name": "DeepSeek",
+          "url": "https://www.deepseek.com",
+          "description": "",
+          "icon": "/sitelogo/www.deepseek.com.ico"
+        },
+        {
+          "id": "site-1753923385615",
+          "name": "Grok",
+          "url": "https://grok.com",
+          "description": "",
+          "icon": "/sitelogo/grok.com.ico"
+        },
+        {
+          "id": "site-1753923415645",
+          "name": "腾讯元宝",
+          "url": "https://yuanbao.tencent.com",
+          "description": "",
+          "icon": "/sitelogo/yuanbao.tencent.com.ico"
+        },
+        {
+          "id": "site-1753923538243",
+          "name": "Gemini",
+          "url": "https://gemini.google.com",
+          "description": "",
+          "icon": "/sitelogo/gemini.google.com.ico"
+        },
+        {
+          "id": "site-1753923579342",
+          "name": "秘塔",
+          "url": "https://metaso.cn",
+          "description": "",
+          "icon": "/sitelogo/metaso.cn.ico"
+        },
+        {
+          "id": "site-1753923599954",
+          "name": "Kimi",
+          "url": "https://www.kimi.com",
+          "description": "",
+          "icon": "/sitelogo/www.kimi.com.ico"
+        },
+        {
+          "id": "site-1753923632714",
+          "name": "文心一言",
+          "url": "https://yiyan.baidu.com",
+          "description": "",
+          "icon": "/sitelogo/yiyan.baidu.com.ico"
+        },
+        {
+          "id": "site-1753923701045",
+          "name": "纳米",
+          "url": "https://bot.n.cn",
+          "description": "",
+          "icon": "/sitelogo/bot.n.cn.ico"
+        },
+        {
+          "id": "site-1753923718646",
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai",
+          "description": "",
+          "icon": "/sitelogo/www.perplexity.ai.ico"
+        },
+        {
+          "id": "site-1753923745186",
+          "name": "天工",
+          "url": "https://www.tiangong.cn",
+          "description": "",
+          "icon": "/sitelogo/www.tiangong.cn.ico"
+        },
+        {
+          "id": "site-1753923768526",
+          "name": "Reportify",
+          "url": "https://reportify.cn",
+          "description": "",
+          "icon": "/sitelogo/reportify.cn.ico"
+        },
+        {
+          "id": "site-1753923786955",
+          "name": "博查",
+          "url": "https://bochaai.com",
+          "description": "",
+          "icon": "/sitelogo/bochaai.com.ico"
+        },
+        {
+          "id": "site-1753923875095",
+          "name": "讯飞星火",
+          "url": "https://xinghuo.xfyun.cn",
+          "description": "",
+          "icon": "/sitelogo/xinghuo.xfyun.cn.ico"
+        },
+        {
+          "id": "site-1753923982727",
+          "name": "百灵",
+          "url": "https://bilin.ai",
+          "description": "",
+          "icon": "/sitelogo/bilin.ai.ico"
         }
       ]
     },
