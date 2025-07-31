@@ -303,14 +303,72 @@ export const mockData = {
       "icon": "🛒",
       "name": "线上购物",
       "order": 5,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1753926140198",
+          "name": "淘宝",
+          "url": "https://www.taobao.com",
+          "description": "",
+          "icon": "/sitelogo/www.taobao.com.ico"
+        },
+        {
+          "id": "site-1753926183498",
+          "name": "京东",
+          "url": "https://www.jd.com",
+          "description": "",
+          "icon": "https://www.shenhoo.com/wp-content/uploads/2024/11/jingdong.png"
+        },
+        {
+          "id": "site-1753926631732",
+          "name": "亚马逊",
+          "url": "https://www.amazon.com",
+          "description": "",
+          "icon": "/sitelogo/www.amazon.com.ico"
+        },
+        {
+          "id": "site-1753926779251",
+          "name": "苏宁",
+          "url": "https://www.suning.com",
+          "description": "",
+          "icon": "/sitelogo/www.suning.com.ico"
+        }
+      ]
     },
     {
       "id": "category-1753923021583",
       "icon": "💻",
       "name": "软件资源",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1753926012127",
+          "name": "果核剥壳",
+          "url": "https://www.ghxi.com",
+          "description": "",
+          "icon": "/sitelogo/www.ghxi.com.ico"
+        },
+        {
+          "id": "site-1753926031328",
+          "name": "423Down",
+          "url": "https://www.423down.com",
+          "description": "",
+          "icon": "/sitelogo/www.423down.com.ico"
+        },
+        {
+          "id": "site-1753926045497",
+          "name": "易破解",
+          "url": "https://www.ypojie.com",
+          "description": "",
+          "icon": "/sitelogo/www.ypojie.com.ico"
+        },
+        {
+          "id": "site-1753926067097",
+          "name": "蓝鲨",
+          "url": "https://www.lsapk.com",
+          "description": "",
+          "icon": "/sitelogo/www.lsapk.com.ico"
+        }
+      ]
     }
   ],
   "title": "猫猫导航"
