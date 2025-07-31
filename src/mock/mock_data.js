@@ -19,6 +19,27 @@ export const mockData = {
           "url": "https://www.doubao.com",
           "description": "",
           "icon": "/sitelogo/www.doubao.com.ico"
+        },
+        {
+          "id": "site-1753924852215",
+          "name": "Twitter",
+          "url": "https://x.com",
+          "description": "",
+          "icon": "https://raw.githubusercontent.com/fayazara/bring-back-twitter-bird/refs/heads/main/icon.png"
+        },
+        {
+          "id": "site-1753924887182",
+          "name": "YouTube",
+          "url": "https://www.youtube.com",
+          "description": "",
+          "icon": "/sitelogo/www.youtube.com.ico"
+        },
+        {
+          "id": "site-1753924952671",
+          "name": "抖音",
+          "url": "https://www.douyin.com",
+          "description": "",
+          "icon": "/sitelogo/www.douyin.com.ico"
         }
       ]
     },
@@ -175,7 +196,64 @@ export const mockData = {
       "name": "学习资源",
       "icon": "📚",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1753925114034",
+          "name": "学科网",
+          "url": "https://www.zxxk.com",
+          "description": "",
+          "icon": "/sitelogo/www.zxxk.com.ico"
+        },
+        {
+          "id": "site-1753925140044",
+          "name": "组卷网",
+          "url": "https://zujuan.xkw.com",
+          "description": "",
+          "icon": "/sitelogo/www.zxxk.com.ico"
+        },
+        {
+          "id": "site-1753925157595",
+          "name": "正确云",
+          "url": "https://www.zqy.com",
+          "description": "",
+          "icon": "/sitelogo/www.zqy.com.ico"
+        },
+        {
+          "id": "site-1753925173294",
+          "name": "橡皮网",
+          "url": "https://www.xiangpi.com",
+          "description": "",
+          "icon": "/sitelogo/www.xiangpi.com.ico"
+        },
+        {
+          "id": "site-1753925319473",
+          "name": "智慧教育",
+          "url": "https://basic.smartedu.cn",
+          "description": "",
+          "icon": "/sitelogo/www.smartedu.cn.ico"
+        },
+        {
+          "id": "site-1753925417435",
+          "name": "MOOC",
+          "url": "https://www.icourse163.org",
+          "description": "",
+          "icon": "/sitelogo/www.icourse163.org.ico"
+        },
+        {
+          "id": "site-1753925197613",
+          "name": "九科星",
+          "url": "https://www.jkxjxw.com",
+          "description": "",
+          "icon": "/sitelogo/www.jkxjxw.com.ico"
+        },
+        {
+          "id": "site-1753925218182",
+          "name": "学府图书馆",
+          "url": "http://www.xueshu5688.com",
+          "description": "",
+          "icon": "/sitelogo/www.xueshu5688.com.ico"
+        }
+      ]
     },
     {
       "id": "tools",
@@ -191,11 +269,11 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
-          "id": "bilibili",
-          "name": "哔哩哔哩",
-          "url": "https://www.bilibili.com",
+          "id": "site-1753925060002",
+          "name": "小步影院",
+          "url": "https://xbyy.460415.xyz",
           "description": "",
-          "icon": "https://www.bilibili.com/favicon.ico"
+          "icon": "https://xbyy.460415.xyz/template/conch/asset/img/favicon.png"
         },
         {
           "id": "youtube",
@@ -203,6 +281,20 @@ export const mockData = {
           "url": "https://www.youtube.com",
           "description": "",
           "icon": "/sitelogo/www.youtube.com.ico"
+        },
+        {
+          "id": "bilibili",
+          "name": "哔哩哔哩",
+          "url": "https://www.bilibili.com",
+          "description": "",
+          "icon": "https://www.bilibili.com/favicon.ico"
+        },
+        {
+          "id": "site-1753924964773",
+          "name": "抖音",
+          "url": "https://www.douyin.com",
+          "description": "",
+          "icon": "/sitelogo/www.douyin.com.ico"
         }
       ]
     },
