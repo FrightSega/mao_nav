@@ -40,6 +40,27 @@ export const mockData = {
           "url": "https://www.douyin.com",
           "description": "",
           "icon": "/sitelogo/www.douyin.com.ico"
+        },
+        {
+          "id": "site-1753927633977",
+          "name": "Gmail",
+          "url": "https://mail.google.com",
+          "description": "",
+          "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"
+        },
+        {
+          "id": "site-1753927690627",
+          "name": "Outlook",
+          "url": "https://outlook.live.com",
+          "description": "",
+          "icon": "/sitelogo/outlook.live.com.ico"
+        },
+        {
+          "id": "site-1753927660578",
+          "name": "QQ邮箱",
+          "url": "https://mail.qq.com",
+          "description": "",
+          "icon": "/sitelogo/mail.qq.com.ico"
         }
       ]
     },
@@ -57,25 +78,11 @@ export const mockData = {
           "icon": "/sitelogo/chat.openai.com.ico"
         },
         {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
+          "id": "site-1753923385615",
+          "name": "Grok",
+          "url": "https://grok.com",
           "description": "",
-          "icon": "/sitelogo/claude.ai.ico"
-        },
-        {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "",
-          "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
-          "id": "copilot",
-          "name": "Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "",
-          "icon": "/sitelogo/github.com.ico"
+          "icon": "/sitelogo/grok.com.ico"
         },
         {
           "id": "site-1753923273467",
@@ -92,20 +99,6 @@ export const mockData = {
           "icon": "/sitelogo/chat.qwen.ai.ico"
         },
         {
-          "id": "site-1753923356225",
-          "name": "DeepSeek",
-          "url": "https://www.deepseek.com",
-          "description": "",
-          "icon": "/sitelogo/www.deepseek.com.ico"
-        },
-        {
-          "id": "site-1753923385615",
-          "name": "Grok",
-          "url": "https://grok.com",
-          "description": "",
-          "icon": "/sitelogo/grok.com.ico"
-        },
-        {
           "id": "site-1753923415645",
           "name": "腾讯元宝",
           "url": "https://yuanbao.tencent.com",
@@ -113,18 +106,11 @@ export const mockData = {
           "icon": "/sitelogo/yuanbao.tencent.com.ico"
         },
         {
-          "id": "site-1753923538243",
-          "name": "Gemini",
-          "url": "https://gemini.google.com",
+          "id": "site-1753923356225",
+          "name": "DeepSeek",
+          "url": "https://www.deepseek.com",
           "description": "",
-          "icon": "/sitelogo/gemini.google.com.ico"
-        },
-        {
-          "id": "site-1753923579342",
-          "name": "秘塔",
-          "url": "https://metaso.cn",
-          "description": "",
-          "icon": "/sitelogo/metaso.cn.ico"
+          "icon": "/sitelogo/www.deepseek.com.ico"
         },
         {
           "id": "site-1753923599954",
@@ -141,18 +127,53 @@ export const mockData = {
           "icon": "/sitelogo/yiyan.baidu.com.ico"
         },
         {
+          "id": "site-1753923875095",
+          "name": "讯飞星火",
+          "url": "https://xinghuo.xfyun.cn",
+          "description": "",
+          "icon": "/sitelogo/xinghuo.xfyun.cn.ico"
+        },
+        {
+          "id": "site-1753923538243",
+          "name": "Gemini",
+          "url": "https://gemini.google.com",
+          "description": "",
+          "icon": "/sitelogo/gemini.google.com.ico"
+        },
+        {
+          "id": "claude",
+          "name": "Claude",
+          "url": "https://claude.ai",
+          "description": "",
+          "icon": "/sitelogo/claude.ai.ico"
+        },
+        {
+          "id": "copilot",
+          "name": "Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "midjourney",
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com",
+          "description": "",
+          "icon": "/sitelogo/www.midjourney.com.ico"
+        },
+        {
+          "id": "site-1753923579342",
+          "name": "秘塔",
+          "url": "https://metaso.cn",
+          "description": "",
+          "icon": "/sitelogo/metaso.cn.ico"
+        },
+        {
           "id": "site-1753923701045",
           "name": "纳米",
           "url": "https://bot.n.cn",
           "description": "",
           "icon": "/sitelogo/bot.n.cn.ico"
-        },
-        {
-          "id": "site-1753923718646",
-          "name": "Perplexity",
-          "url": "https://www.perplexity.ai",
-          "description": "",
-          "icon": "/sitelogo/www.perplexity.ai.ico"
         },
         {
           "id": "site-1753923745186",
@@ -162,13 +183,6 @@ export const mockData = {
           "icon": "/sitelogo/www.tiangong.cn.ico"
         },
         {
-          "id": "site-1753923768526",
-          "name": "Reportify",
-          "url": "https://reportify.cn",
-          "description": "",
-          "icon": "/sitelogo/reportify.cn.ico"
-        },
-        {
           "id": "site-1753923786955",
           "name": "博查",
           "url": "https://bochaai.com",
@@ -176,18 +190,25 @@ export const mockData = {
           "icon": "/sitelogo/bochaai.com.ico"
         },
         {
-          "id": "site-1753923875095",
-          "name": "讯飞星火",
-          "url": "https://xinghuo.xfyun.cn",
-          "description": "",
-          "icon": "/sitelogo/xinghuo.xfyun.cn.ico"
-        },
-        {
           "id": "site-1753923982727",
           "name": "百灵",
           "url": "https://bilin.ai",
           "description": "",
           "icon": "/sitelogo/bilin.ai.ico"
+        },
+        {
+          "id": "site-1753923718646",
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai",
+          "description": "",
+          "icon": "/sitelogo/www.perplexity.ai.ico"
+        },
+        {
+          "id": "site-1753923768526",
+          "name": "Reportify",
+          "url": "https://reportify.cn",
+          "description": "",
+          "icon": "/sitelogo/reportify.cn.ico"
         }
       ]
     },
@@ -260,7 +281,64 @@ export const mockData = {
       "name": "在线工具",
       "icon": "⚙️",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1753927126904",
+          "name": "帮小忙",
+          "url": "https://tool.browser.qq.com",
+          "description": "",
+          "icon": "/sitelogo/tool.browser.qq.com.ico"
+        },
+        {
+          "id": "site-1753927152053",
+          "name": "123apps",
+          "url": "https://123apps.com",
+          "description": "",
+          "icon": "/sitelogo/123apps.com.ico"
+        },
+        {
+          "id": "site-1753927174973",
+          "name": "MikuTools",
+          "url": "https://tools.miku.ac",
+          "description": "",
+          "icon": "/sitelogo/tools.miku.ac.ico"
+        },
+        {
+          "id": "site-1753927245594",
+          "name": "在线工具",
+          "url": "https://tool.lu",
+          "description": "",
+          "icon": "/sitelogo/tool.lu.ico"
+        },
+        {
+          "id": "site-1753927262575",
+          "name": "塔条",
+          "url": "https://www.tatiao.com",
+          "description": "",
+          "icon": "/sitelogo/www.tatiao.com.ico"
+        },
+        {
+          "id": "site-1753927286905",
+          "name": "即时工具",
+          "url": "https://www.67tool.com",
+          "description": "",
+          "icon": "/sitelogo/www.67tool.com.ico"
+        },
+        {
+          "id": "site-1753927427547",
+          "name": "CRX搜搜",
+          "url": "https://www.crxsoso.com",
+          "description": "",
+          "icon": "/sitelogo/www.crxsoso.com.ico"
+        },
+        {
+          "id": "site-1753927309466",
+          "name": "ITDOG",
+          "url": "https://www.itdog.cn",
+          "description": "",
+          "icon": "/sitelogo/www.itdog.cn.ico"
+        }
+      ]
     },
     {
       "id": "entertainment",
