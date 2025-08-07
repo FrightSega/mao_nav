@@ -262,6 +262,13 @@ export const mockData = {
           "icon": "https://xbyy.460415.xyz/template/conch/asset/img/favicon.png"
         },
         {
+          "id": "site-1754555853757",
+          "name": "小步TV",
+          "url": "https://xbtv.460415.xyz",
+          "description": "",
+          "icon": "https://raw.githubusercontent.com/FrightSega/MoonTV/refs/heads/main/public/favicon.ico"
+        },
+        {
           "id": "youtube",
           "name": "YouTube",
           "url": "https://www.youtube.com",
@@ -274,13 +281,6 @@ export const mockData = {
           "url": "https://www.bilibili.com",
           "description": "",
           "icon": "https://www.bilibili.com/favicon.ico"
-        },
-        {
-          "id": "site-1753924964773",
-          "name": "抖音",
-          "url": "https://www.douyin.com",
-          "description": "",
-          "icon": "/sitelogo/www.douyin.com.ico"
         }
       ]
     },
@@ -449,6 +449,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "小步导航",
-  "_fileSha": "2df00018a2148482354a3bf536537d076204ef27"
+  "title": "小步导航"
 }
