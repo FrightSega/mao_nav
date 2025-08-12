@@ -12,6 +12,27 @@ export const mockData = {
           "url": "https://chatgpt.com",
           "description": "",
           "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
+          "id": "site-1754970220009",
+          "name": "豆包",
+          "url": "https://www.doubao.com/",
+          "description": "",
+          "icon": "https://img.dogged.cn/i/2024/07/02/66840b19d0220.png"
+        },
+        {
+          "id": "site-1754970271933",
+          "name": "Twitter",
+          "url": "https://x.com",
+          "description": "",
+          "icon": "https://raw.githubusercontent.com/mohmoussad/Restore-Twitter-Bird/refs/heads/master/images/logo.ico"
+        },
+        {
+          "id": "site-1754971286400",
+          "name": "抖音",
+          "url": "https://www.douyin.com/",
+          "description": "",
+          "icon": "https://favicon.run/favicon?domain=www.douyin.com&sz=64"
         }
       ]
     },
@@ -130,7 +151,5 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "小步导航",
-  "_fileSha": "db8732a122406429b66caf2b2e91a174481440d8",
-  "search": "google"
+  "title": "小步导航"
 }
