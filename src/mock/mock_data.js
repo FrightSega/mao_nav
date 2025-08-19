@@ -138,7 +138,7 @@ export const mockData = {
           "name": "讯飞星火",
           "url": "https://xinghuo.xfyun.cn",
           "description": "",
-          "icon": "https://xinghuo.xfyun.cn/spark-icon.ico"
+          "icon": "https://www.shenhoo.com/favicon/get.php?url=https://xinghuo.xfyun.cn/"
         },
         {
           "id": "copilot",
@@ -266,7 +266,7 @@ export const mockData = {
           "name": "小步TV",
           "url": "https://xbtv.460415.xyz",
           "description": "",
-          "icon": "https://raw.githubusercontent.com/FrightSega/MoonTV/refs/heads/main/public/favicon.ico"
+          "icon": "https://raw.githubusercontent.com/FrightSega/MoonTV/refs/heads/main/public/favicon.ico?token=GHSAT0AAAAAADI52JE7JEM2R7I4IBVIU6S62FE4KHA"
         },
         {
           "id": "bilibili",
@@ -449,7 +449,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "小步导航",
-  "_fileSha": "60d3be3b72c30f39d4be2c976d99e627d5a3e802",
-  "search": "google"
+  "title": "小步导航"
 }
