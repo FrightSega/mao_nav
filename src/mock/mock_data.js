@@ -266,7 +266,7 @@ export const mockData = {
           "name": "小步TV",
           "url": "https://xbtv.460415.xyz",
           "description": "",
-          "icon": "https://raw.githubusercontent.com/FrightSega/MoonTV/refs/heads/main/public/favicon.ico?token=GHSAT0AAAAAADI52JE7RCCHU6NRQIMEPOA22FFGTWQ"
+          "icon": "https://raw.githubusercontent.com/samqin123/MoonTV/refs/heads/main/public/favicon.ico"
         },
         {
           "id": "bilibili",
