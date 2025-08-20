@@ -266,7 +266,7 @@ export const mockData = {
           "name": "小步TV",
           "url": "https://xbtv.460415.xyz",
           "description": "",
-          "icon": "https://raw.githubusercontent.com/FrightSega/MoonTV/refs/heads/main/public/favicon.ico?token=GHSAT0AAAAAADI52JE7JEM2R7I4IBVIU6S62FE4KHA"
+          "icon": "https://raw.githubusercontent.com/FrightSega/MoonTV/refs/heads/main/public/favicon.ico?token=GHSAT0AAAAAADI52JE7RCCHU6NRQIMEPOA22FFGTWQ"
         },
         {
           "id": "bilibili",
@@ -449,7 +449,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "小步导航",
-  "_fileSha": "109a2d43e3c599da619777645b6e385ba1e5946c",
-  "search": "google"
+  "title": "小步导航"
 }
